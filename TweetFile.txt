@@ -1,0 +1,12 @@
+Raptors~Drake~Obama~1~Go Raptors! Go! COMP100
+Raptors~Tory~Drake~2~Yes Toronto will get them! COMP100
+Raptors~Tory~Obama~1~Toronto joins cities around the world to celebrate International Day Against Homophobia & Transphobia COMP100
+Taxes~Drake~Bieber~2~Go Raptors! Go! COMP100
+Raptors~Drake~Obama~1~Go Raptors! Go! COMP100
+Raptors~Tory~Drake~2~Yes Toronto will get them!
+Raptors~Tory~Obama~1~Toronto joins cities around the world to celebrate International Day Against Homophobia & Transphobia
+Ford~Trudeau~Bieber~2~Go Raptors! Go!
+WeTheNorth~Drake~1~Obama~Go Raptors! Go!
+Raptors~Tory~Drake~2~Yes Toronto will get them!
+Ford~Trudeau~Obama~1~Toronto joins cities around the world to celebrate International Day Against Homophobia & Transphobia
+Ford~Drake~Bieber~2~Go Raptors! Go!
